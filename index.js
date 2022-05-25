@@ -1,5 +1,5 @@
 const inquirer = require('inquirer')
-const template = require('./src/page-template')
+const template = require('./src/Template')
 const writeFile = require('./src/write-file')
 
 // constructor classes and questions

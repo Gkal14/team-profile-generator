@@ -8,36 +8,30 @@
     
 }
 
-.box { border: 1px solid black; }
+.box { border: 0.25px solid black; }
 
 body {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-
+    font-family: Arial, Helvetica, sans-serif;
     background: #f5f4f7;
 }
-
-.bg-color-1 { background-color: #F8B195; }
-.bg-color-2 { background-color: #F67280; }
-.bg-color-3 { background-color: #C06C84; }
-.bg-color-4 { background-color: #6C5B7B; }
-.bg-color-5 { background-color: #355C7D; }
 
 .name-role {
     display: flex;
     justify-content: space-around;
 }
 
-.my-team { background-color: #b29ef7; }
+.my-team { background-color: red; }
 
-.manager-name { background-color: #ff3535; }
+.manager-name { background-color: lightblue; }
 
-.engineer-name { background-color: #95ff95; }
+.engineer-name { background-color: lightblue; }
 
-.intern-name { background-color: #fff388; }
+.intern-name { background-color: lightblue; }
 
 .employee-info { background-color: #f5f4f7; }
 
-.card { background-color: #355C7D; }
+.card { background-color: #2e3236; }

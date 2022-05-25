@@ -95,4 +95,4 @@ const manager = managerData => {
   `
   }
   
-  module.exports = Template;
+  module.exports = template;
